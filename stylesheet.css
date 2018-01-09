@@ -1,4 +1,11 @@
+/*Classes*/
+.container {
+  background-color: #87CEFA;
+  width: 95%;
+  margin: auto;
+}
 
+/*Elements*/
 header h1 {
   text-align: center;
 }
