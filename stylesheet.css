@@ -1,13 +1,30 @@
+/*Classes*/
+.container {
+  background-color: hsla(0,0%,50%,.5);
+  width: 90%;
+  height: 90%;
+  margin: auto;
+  border: 5px solid black;
+  border-radius: 15px;
+}
 
+body {
+  background-image: url('images/code.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/*Elements*/
 header h1 {
   text-align: center;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 table {
-  width: 1000px;
   text-align: center;
-  margin: 20px auto;
-
+  margin: auto;
+  height: 80%;
 }
 
 table a {
@@ -20,10 +37,7 @@ table a {
   font-weight: bold;
   border: 2px solid #eaeaea;
   box-shadow: 2px 2px 2px #000;
-  max-width: 80%;
-  min-width: 80%;
-  vertical-align: top;
-  margin: 10px 10px;
+  width: 80%;
 }
 
 table a:hover {background-color: lightgrey;}
