@@ -1,11 +1,12 @@
 /*Classes*/
 .container { /*This houses content to allow it to float over the background*/
-  background-color: hsla(0,0%,50%,.5);
+  background-color: hsla(0,0%,50%,.85);
   width: 90%;
   height: 90%;
   margin: auto;
   border: 5px solid black;
   border-radius: 15px;
+  margin-top: 20px;
 }
 
 .navButton { /*Applies to nav button from welcome site to index*/
@@ -20,11 +21,46 @@
   box-shadow: 2px 2px 2px #000;
 }
 
+.headerLogo {
+  text-indent: -9999px;
+  background-image: url(images/cvinternshipLogo.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  padding-bottom: 40px;
+  margin-top: 10px;
+}
+
 /*Elements*/
 body {
   background-image: url('images/code.png');
   background-repeat: no-repeat;
-  background-position: center;
+  background-position:center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+section {
+  text-align: center;
+  padding: 5px;
+  width: 100%;
+  margin: auto;
+}
+
+section a {
+  display: inline-block;
+  color: #000;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+  background-color: #fff;
+  border-radius: 5px;
+  font-weight: bold;
+  border: 1px solid #000;
+  box-shadow: 2px 2px 2px #000;
+  max-width: 100%;
+  width: 20%;
+  height: 30%;
+  vertical-align: top;
 }
 
 header h1 {
@@ -40,31 +76,50 @@ p {
   text-align: center;
 }
 
-table {
-  text-align: center;
-  margin: auto;
-  height: 80%;
-}
+section a:hover {background-color: lightgrey;}
 
-table a {
-  display: inline-block;
-  color: #000;
-  padding: 10px 10px;
-  text-decoration: none;
-  background-color: #fff;
-  border-radius: 15px;
-  font-weight: bold;
-  border: 2px solid #eaeaea;
-  box-shadow: 2px 2px 2px #000;
-  width: 80%;
-  opacity: .8;
-}
-
-table a:hover {background-color: lightgrey;}
-
-table a:active {color: #fff;}
+section a:active {color: #fff;}
 
 footer {
   text-align: center;
   color: white;
+}
+
+
+/************TABLET***************/
+
+@media only screen and (min-width: 32.5em) and (max-width: 63.5em)  {
+
+  section {
+    margin-top: 0;
+  }
+
+  section a {
+    float: inherit;
+    display: inline-block;
+    width: 43%;
+    font-size: 90%;
+    text-align: center;
+    box-shadow: 2px 2px 2px #000;
+    margin: 4px auto;
+    padding: 10px;
+  }
+}
+
+/************SMARTPHONE**************/
+
+@media only screen and (max-width: 32.5em) {
+
+  .headerLogo {
+    background-image: url(images/cvInternshipSmall.svg);
+  }
+  section a {
+    display: inline-block;
+    width: 60%;
+    font-size: 110%;
+    text-align: center;
+    box-shadow: 2px 2px 2px #000;
+    margin: 4px auto;
+    padding: 2.5%;
+  }
 }
