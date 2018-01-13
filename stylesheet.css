@@ -1,6 +1,6 @@
 /*Classes*/
 .container { /*This houses content to allow it to float over the background*/
-  background-color: hsla(0,0%,50%,.5);
+  background-color: hsla(0,0%,50%,.85);
   width: 90%;
   height: 90%;
   margin: auto;
