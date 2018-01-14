@@ -79,6 +79,10 @@ footer {
   color: white;
 }
 
+img {
+  display: block;
+  margin: 0 auto;
+}
 
 /************TABLET***************/
 
