@@ -20,6 +20,10 @@
   margin-top: 10px;
 }
 
+.desktopFlowAdjustment {
+  max-width: 100%;
+}
+
 
 /*Elements*/
 body {
@@ -126,6 +130,10 @@ img {
 
   .headerLogo {
     background-image: url(images/cvInternshipSmall.svg);
+  }
+
+  .desktopFlowAdjustment {
+    display: none;
   }
   section a {
     display: inline-block;
