@@ -80,7 +80,7 @@ p {
 
 p a {
   text-decoration: none;
-  color: lightblue;
+  color: #2DB2F6;
 }
 
 p a:hover {color: #ab0303;}
@@ -114,11 +114,16 @@ img {
     display: none;
   }
 
+  .tabletfloat{
+    clear: left;
+    overflow: auto;
+  }
+
   .tabletFlowAdjustment {
     max-width: 100%;
     display: block;
     float: right;
-    clear: left;
+
   }
 
   section {
