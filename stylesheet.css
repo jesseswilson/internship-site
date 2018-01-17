@@ -141,6 +141,10 @@ img {
     margin: 4px auto;
     padding: 10px;
   }
+
+  p {
+    font-size: .95em;
+  }
 }
 
 /************SMARTPHONE**************/
@@ -155,8 +159,6 @@ img {
     display: none;
   }
 
-
-
   section a {
     display: inline-block;
     width: 60%;
@@ -165,5 +167,9 @@ img {
     box-shadow: 2px 2px 2px #000;
     margin: 4px auto;
     padding: 2.5%;
+  }
+
+  p {
+    font-size: .95em;
   }
 }
