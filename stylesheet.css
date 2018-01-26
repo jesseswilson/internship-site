@@ -104,7 +104,7 @@ img {
 @media only screen and (min-width: 32.5em) and (max-width: 63.5em)  {
 
   .headerLogo {
-    background-image: url(images/cvInternshipMedium.svg);
+    background-image: url(images/cvInternshipMedium.png);
     padding-top: 100px;
     padding-bottom: 40px;
     margin-top: 30px;
@@ -152,7 +152,7 @@ img {
 @media only screen and (max-width: 32.5em) {
 
   .headerLogo {
-    background-image: url(images/cvInternshipSmall.svg);
+    background-image: url(images/cvInternshipSmall.png);
   }
 
   .desktopFlowAdjustment {
