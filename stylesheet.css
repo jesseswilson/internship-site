@@ -106,7 +106,7 @@ img {
   .headerLogo {
     background-image: url(images/cvInternshipMedium.png);
     padding-top: 100px;
-    padding-bottom: 40px;
+    padding-bottom: 1px;
     margin-top: 30px;
   }
 
