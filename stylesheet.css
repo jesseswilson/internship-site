@@ -62,7 +62,8 @@ section a {
 
 section a img {
   height: 40px;
-  width: 120px;
+  max-width: 100%;
+  width: auto;
 }
 
 header h1 {
