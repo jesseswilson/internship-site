@@ -1,0 +1,224 @@
+{
+  "companies": [
+    {
+      "companyName":"Menards",
+      "imageUrl":"images/logos/menards.png",
+      "jobsUrl":"https://recruit.hirebridge.com/v3/jobs/list.aspx?cid=5535"
+    },
+    {
+      "companyName":"Jamf",
+      "imageUrl":"images/logos/jamf.png",
+      "jobsUrl":"https://www.jamf.com/jobs/internships/usa/"
+    },
+    {
+      "companyName":"Ashley Furniture",
+      "imageUrl":"images/logos/ashley.png",
+      "jobsUrl":"https://ashleyfurniture.mua.hrdepartment.com/hr/ats/JobSearch/search"
+    },
+    {
+      "companyName":"United Health Group",
+      "imageUrl":"images/logos/unitedhealthgroup.png",
+      "jobsUrl":"https://careers.unitedhealthgroup.com/search-jobs?kw=&sp=WISCONSIN&re=US&jf=0"
+    },
+    {
+      "companyName":"Mason Companies",
+      "imageUrl":"images/logos/mason.png",
+      "jobsUrl":"http://www.masoncompaniesinc.com/careers/internships/"
+    },
+    {
+      "companyName":"National Business Institute",
+      "imageUrl":"images/logos/nbi.jpeg",
+      "jobsUrl":"https://www.nbi-sems.com/"
+    },
+    {
+      "companyName":"Curt Manufacturing",
+      "imageUrl":"images/logos/curt.png",
+      "jobsUrl":"https://workforcenow.adp.com/jobs/apply/posting.html?client=curtmfg&ccId=19000101_000001&type=MP&lang=en_US"
+    },
+    {
+      "companyName":"Chestnut Consulting",
+      "imageUrl":"images/logos/chestnutconsulting.jpeg",
+      "jobsUrl":"http://www.chestnutconsulting.com/"
+    },
+    {
+      "companyName":"Hutchinson Technologies",
+      "imageUrl":"images/logos/hutchinson.jpg",
+      "jobsUrl":"https://www.htch.com/WebHTI/opening/JobList/COOPINTERN"
+    },
+    {
+      "companyName":"Charter Communications",
+      "imageUrl":"images/logos/charter.png",
+      "jobsUrl":"https://jobs.spectrum.com/search-jobs/Eau%20Claire,%20WI/4673-14710/4/6252001-5279468-5251439-5251436/44x81135/-91x49849/50/2"
+    },
+    {
+      "companyName":"Hospital Sisters Health Systems",
+      "imageUrl":"images/logos/hshs.png",
+      "jobsUrl":"https://hshscareers.referrals.selectminds.com/jobs/search/1091286"
+    },
+    {
+      "companyName":"First Net Impressions",
+      "imageUrl":"images/logos/firstnet.png",
+      "jobsUrl":"http://www.firstnetimpressions.com/careers.phtml"
+    },
+    {
+      "companyName":"Satellite Six",
+      "imageUrl":"images/logos/satellitesix.jpeg",
+      "jobsUrl":"https://www.satellitesix.com/careers/"
+    },
+    {
+      "companyName":"Phillips Medisize",
+      "imageUrl":"images/logos/phillips.png",
+      "jobsUrl":"http://www.phillipsmedisize.com/about-us/careers/us-careers"
+    },
+    {
+      "companyName":"City of Eau Claire",
+      "imageUrl":"images/logos/ec.jpg",
+      "jobsUrl":"https://www.governmentjobs.com/careers/eauclairewi?page=1"
+    },
+    {
+      "companyName":"Royal Credit Union",
+      "imageUrl":"images/logos/rcu.png",
+      "jobsUrl":"https://usr53.dayforcehcm.com/CandidatePortal/en-US/rcu/"
+    },
+    {
+      "companyName":"Midwest Manufacturing",
+      "imageUrl":"images/logos/midwestmanufacturing.jpeg",
+      "jobsUrl":"https://www.midwestmanufacturing.com/MidwestManufacturing/careers.do"
+    },
+    {
+      "companyName":"Silicon Graphics International",
+      "imageUrl":"images/logos/sgi.png",
+      "jobsUrl":"https://careers.hpe.com/search-jobs/Chippewa%Falls?orgIds=3545&alp=6252001-5279468-5248507-5248511&alt=4"
+    },
+    {
+      "companyName":"Draft Design House",
+      "imageUrl":"images/logos/draft.png",
+      "jobsUrl":"https://draftdesignhouse.com/careers"
+    },
+    {
+      "companyName":"Idexx Labratories",
+      "imageUrl":"images/logos/idexx.png",
+      "jobsUrl":"https://careers.idexx.com/career-areas/internshipsandnewgrads/"
+    },
+    {
+      "companyName":"Applied Data Consultants",
+      "imageUrl":"images/logos/adc.png",
+      "jobsUrl":"http://www.adc4gis.com/careers"
+    },
+    {
+      "companyName":"Dynamite Tech",
+      "imageUrl":"images/logos/dynamitetech.png",
+      "jobsUrl":"http://www.dynamitetech.com/"
+    },
+    {
+      "companyName":"Cray",
+      "imageUrl":"images/logos/cray.png",
+      "jobsUrl":"https://www.cray.com/company/careers/browse?Req_State=WI&Req_City=ChippewaFalls&Req_ReqUDF6FK=Intern"
+    },
+    {
+      "companyName":"Chippewa Valley Technical College",
+      "imageUrl":"images/logos/cvtc.png",
+      "jobsUrl":"https://www.cvtc.edu/about-cvtc#employment-opportunities"
+    },
+    {
+      "companyName":"Mayo Clinic",
+      "imageUrl":"images/logos/mayo.png",
+      "jobsUrl":"http://jobs.mayoclinic.org/job-search/?br_keyword=intern&br_location=&br_category=IT+and+Engineering&br_specialty=0&br_schedule=0&br_benefits=0&br_telework=0"
+    },
+    {
+      "companyName":"TTM Technologies",
+      "imageUrl":"images/logos/ttm.jpg",
+      "jobsUrl":"http://www.ttm.com/careers/careers_search.aspx"
+    },
+    {
+      "companyName":"Grassland Dairy",
+      "imageUrl":"images/logos/grassland.png",
+      "jobsUrl":"http://www.grassland.com/Careers.php"
+    },
+    {
+      "companyName":"CC&N",
+      "imageUrl":"images/logos/ccn.png",
+      "jobsUrl":"https://www.cc-n.com/join-our-team/career-opportunities/"
+    },
+    {
+      "companyName":"Gunderson Health System",
+      "imageUrl":"images/logos/gunderson.png",
+      "jobsUrl":"http://www.gundersenhealth.org/careers/job-opportunities/interns-fellows/"
+    },
+    {
+      "companyName":"Imagineering",
+      "imageUrl":"images/logos/imagineering.png",
+      "jobsUrl":"http://imagineeringit.com/careers/"
+    },
+    {
+      "companyName":"MacDonell Area Catholic Schools",
+      "imageUrl":"images/logos/macs.png",
+      "jobsUrl":"http://www.mcdonellareacatholicschools.org/about/opportunity.cfm"
+    },
+    {
+      "companyName":"Wisconsin Independent Network",
+      "imageUrl":"images/logos/win.png",
+      "jobsUrl":"https://wins.net/careers/"
+    },
+    {
+      "companyName":"JB Systems",
+      "imageUrl":"images/logos/jbsystems.jpg",
+      "jobsUrl":"http://www.jbsystemsllc.com/contact/jobs.php"
+    },
+    {
+      "companyName":"Marshfield Clinic",
+      "imageUrl":"images/logos/marshfieldclinic.png",
+      "jobsUrl":"https://marshfieldcliniccss.igreentree.com/CSS_External/CSSPage_Welcome.asp"
+    },
+    {
+      "companyName":"Powertex",
+      "imageUrl":"images/logos/powertex.png",
+      "jobsUrl":"http://www.powertexgroup.com/jobs/"
+    },
+    {
+      "companyName":"Westconsin Credit Union",
+      "imageUrl":"images/logos/westconsin.png",
+      "jobsUrl":"https://www.westconsincu.org/about-us/careers/"
+    },
+    {
+      "companyName":"Tricounty Communications",
+      "imageUrl":"images/logos/tcc.png",
+      "jobsUrl":"http://tccpro.net/tcc-employment/"
+    },
+    {
+      "companyName":"Geek Squad",
+      "imageUrl":"images/logos/geeksquad.png",
+      "jobsUrl":"http://www.bestbuy-jobs.com/job-family/geek-squad/?keywords=intern&location=Eau+Claire%2C+WI&locdist=10&category=-1&level=-1&brand=Geek+Squad"
+    },
+    {
+      "companyName":"3M",
+      "imageUrl":"images/logos/3m.jpg",
+      "jobsUrl":"https://www.3m.com/3M/en_US/careers-us/students/"
+    },
+    {
+      "companyName":"Action City",
+      "imageUrl":"images/logos/actioncity.jpg",
+      "jobsUrl":"https://metropolisresort.careerplug.com/jobs?locale=en-US"
+    },
+    {
+      "companyName":"Andersen Corp",
+      "imageUrl":"images/logos/andersenCorp.png",
+      "jobsUrl":"http://andersencareers.com/ListJobs/ByCustom/Andersen-Job-Category/Keyword-Information-Technology"
+    },
+    {
+      "companyName":"Entropy Multimedia",
+      "imageUrl":"images/logos/entropyMultimedia.png",
+      "jobsUrl":"http://www.entropymultimedia.com/careers/"
+    },
+    {
+      "companyName":"Logistics Health Inc.",
+      "imageUrl":"images/logos/lhi.jpg",
+      "jobsUrl":"https://careers.unitedhealthgroup.com/search-jobs?kw=LHI&sp=eau+claire%2c+wisconsin&re=US&jf=0"
+    },
+    {
+      "companyName":"HOOPS, Inc.",
+      "imageUrl":"images/logos/hoops.png",
+      "jobsUrl":"http://hoopsinc.com/careers/"
+    }
+  ]
+}
