@@ -15,6 +15,11 @@
 
         gtag('config', 'UA-113139247-1');
       </script>
+      <script
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+      <script src="js/imageEnlargeHover.js"></script>
   </head>
   <body>
     <div class="container">
@@ -35,7 +40,7 @@
                  document.getElementById('body').innerHTML = output;
               }
           };
-          xhttp.open("GET", "company.json", true);
+          xhttp.open("GET", "js/company.json", true);
            xhttp.send();
 
            //Formatting function
