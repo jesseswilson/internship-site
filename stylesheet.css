@@ -86,7 +86,7 @@ p a {
 
 p a:hover {color: #ab0303;}
 
-section a:hover {background-color: lightgrey;}
+/* section a:hover {background-color: lightgrey;} */
 
 section a:active {color: #fff;}
 
