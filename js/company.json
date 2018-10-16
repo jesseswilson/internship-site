@@ -31,6 +31,11 @@
       "jobsUrl":"https://workforcenow.adp.com/jobs/apply/posting.html?client=curtmfg&ccId=19000101_000001&type=MP&lang=en_US"
     },
     {
+      "companyName":"Great Lakes",
+      "imageUrl":"images/logos/greatLakes.png",
+      "jobsUrl":"https://careers-greatlakes.icims.com/jobs/search?ss=1&searchCategory=21559&searchPositionType=8710&searchLocation=12781-12834-Eau+Claire"
+    },
+    {
       "companyName":"Logistics Health Inc.",
       "imageUrl":"images/logos/lhi.jpg",
       "jobsUrl":"https://careers.unitedhealthgroup.com/search-jobs?kw=LHI&sp=eau+claire%2c+wisconsin&re=US&jf=0"
@@ -39,6 +44,16 @@
       "companyName":"Hutchinson Technologies",
       "imageUrl":"images/logos/hutchinson.jpg",
       "jobsUrl":"https://www.htch.com/WebHTI/opening/JobList/COOPINTERN"
+    },
+    {
+      "companyName":"SmartCare",
+      "imageUrl":"images/logos/smartcare.png",
+      "jobsUrl":"https://smartcaresoftware.com/careers/"
+    },
+    {
+      "companyName":"Entropy Multimedia",
+      "imageUrl":"images/logos/entropyMultimedia.png",
+      "jobsUrl":"https://www.entropy.cc/careers.html"
     },
     {
       "companyName":"Hospital Sisters Health Systems",
